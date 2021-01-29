@@ -1,3 +1,6 @@
 public class loginservice {
-    //hjhjhjhjhjhj
+    public static void main(String[] args) {
+        //hjhjhjhjhjhj
+    }
+
 }
